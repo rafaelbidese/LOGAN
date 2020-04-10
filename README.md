@@ -3,7 +3,7 @@ This repository implements the latent optimization from the paper LOGAN which do
 
 This notebook implements the latent optimization algorithms using automatic differentiation  presented in the paper using PyTorch. 
 
-`atent Optimised GANs with Automatic Differentiation`
+`Latent Optimised GANs with Automatic Differentiation`
 
 The notebook is based on the Assignment 3 Q5: Generative Adversarial Networks from the CS231n Convolutional Neural Networks for Visual Recognition.
 
